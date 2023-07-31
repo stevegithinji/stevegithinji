@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>Natural Language Processing (NLP) Project </b>
+  - [Swahili News Articles Classification]([https://github.com/stevegithinji/Bank-Customer-Churn-Classification](https://github.com/stevegithinji/News-Classification))
 - <b>Machine Learning Classifcation Project </b>
   - [Bank Customer Churn Classification](https://github.com/stevegithinji/Bank-Customer-Churn-Classification)
 - <b>Statistical and Regression Model</b>
