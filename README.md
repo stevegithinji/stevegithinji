@@ -1,9 +1,11 @@
 <h1>Hi, I'm Steve! <br/><a href="https://github.com/stevegithinji">Data Scientist</a>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 My Data Science Projects:</h2>
 
 - <b>Natural Language Processing (NLP) Project </b>
   - [Swahili News Articles Classification](https://github.com/stevegithinji/News-Classification)
+- <b>Deep Learning Project </b>
+  - [Image Classification of Chest X-ray Images of Pneumonia using Neural Networks](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-)
 - <b>Machine Learning Classifcation Project </b>
   - [Bank Customer Churn Classification](https://github.com/stevegithinji/Bank-Customer-Churn-Classification)
 - <b>Statistical and Regression Model</b>
