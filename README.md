@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 My Data Science Projects:</h2>
 
+- <b>[Mapping Bengaluru's Culinary Landscape: A Spatial Analysis of Zomato Restaurant Data](https://github.com/stevegithinji/Zomato-Spatial-Analysis) </b>
+  This project conducts a spatial analysis of restaurant data from Zomato in Bengaluru, India. By exploring the geographic distribution of restaurants and their attributes, we aim to uncover valuable insights into the city's culinary landscape.
 - <b>Natural Language Processing (NLP) Project </b>
   - [Swahili News Articles Classification](https://github.com/stevegithinji/News-Classification)
 - <b>Deep Learning Project </b>
