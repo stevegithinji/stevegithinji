@@ -3,9 +3,11 @@
 <h2>👨‍💻 My Data Science Projects:</h2>
 
 - <b>[Mapping Bengaluru's Culinary Landscape: A Spatial Analysis of Zomato Restaurant Data](https://github.com/stevegithinji/Zomato-Spatial-Analysis) </b>
+
   This project conducts a spatial analysis of restaurant data from Zomato in Bengaluru, India. By exploring the geographic distribution of restaurants and their attributes, we aim to uncover valuable insights into the city's culinary landscape.
-- <b>Natural Language Processing (NLP) Project </b>
-  - [Swahili News Articles Classification](https://github.com/stevegithinji/News-Classification)
+- <b>[Swahili News Articles Classification](https://github.com/stevegithinji/News-Classification) </b>
+
+   The main objective of this Natural Language Processing (NLP) project was to develop a machine learning model that can accurately classify East African news articles into relevant categories or topics. Through this project, we have met this objective, and also obtained the following results: accuracy of predicting the swahili news category is at around 81%. This meets and surpasses our success metric of 75% accuracy.
 - <b>Deep Learning Project </b>
   - [Image Classification of Chest X-ray Images of Pneumonia using Neural Networks](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-)
 - <b>Machine Learning Classifcation Project </b>
